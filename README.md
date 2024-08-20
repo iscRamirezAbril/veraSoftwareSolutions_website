@@ -1,6 +1,6 @@
 # Yavin Office Design Website
 > Bootstrap Business website for software solutions, but could easily be changed to fit any business, made with Bootstrap.
-> Live demo [_here_]().
+> Live demo [_here_](https://vera-software-solutions-website.vercel.app/).
 
 
 ## Table of Contents
@@ -67,7 +67,7 @@ To add your own custom styles, use the `styles.scss` file.
 
 
 ## Project Status
-Project is: _in progress_
+Project is: _complete_
 
 
 ## Acknowledgements
