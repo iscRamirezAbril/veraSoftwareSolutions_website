@@ -4,6 +4,14 @@
   height: 600px;
 }
 
+.navbar {
+  transition: all 0.5s ease-in-out;
+}
+
+.navbar-sticky {
+  opacity: 0.8;
+}
+
 .vertical-decoration {
   top: 12%;
   width: 23px;
