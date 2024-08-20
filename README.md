@@ -1,4 +1,4 @@
-# Yavin Office Design Website
+# Vera Software Solutions Website
 > Bootstrap Business website for software solutions, but could easily be changed to fit any business, made with Bootstrap.
 > Live demo [_here_](https://vera-software-solutions-website.vercel.app/).
 
