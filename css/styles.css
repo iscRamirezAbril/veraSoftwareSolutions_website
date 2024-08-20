@@ -17,6 +17,18 @@
   width: 23px;
 }
 
+.details .vertical-decoration {
+  top: 0;
+  left: 0;
+  width: 23px;
+}
+
+.details-2 .vertical-decoration {
+  top: 0;
+  right: 0;
+  width: 23px;
+}
+
 .hr-heading {
   display: inline-block;
   width: 3.5rem;
