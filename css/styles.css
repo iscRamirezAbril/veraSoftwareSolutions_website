@@ -9,6 +9,16 @@
   width: 23px;
 }
 
+.hr-heading {
+  display: inline-block;
+  width: 3.5rem;
+  height: 0.125rem;
+  margin-top: 0.625rem;
+  border: none;
+  background-color: var(--bs-primary);
+  opacity: 1;
+}
+
 @media (max-width: 992px) {
   .display-3 {
     font-size: 50px;
